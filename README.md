@@ -11,5 +11,6 @@
 - 装机必备；
 - C++;
 - LeetCode;
+- 知识技能。
 
 > Do you can do, try your best!   —chuanxu

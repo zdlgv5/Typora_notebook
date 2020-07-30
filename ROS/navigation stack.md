@@ -6,7 +6,7 @@ xbot机器人完成导航，主要由定位和路径规划两个部分，ROS提�
 
 下图为导航框架图：
 
-![move_base](/home/chuanxu/下载/move_base.png)
+![move_base](image/move_base.png)
 
 该框架中，move_base提供主要的运行与交互接口，而精确定位部分，交给AMCL来处理。
 
