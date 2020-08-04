@@ -14,3 +14,5 @@
 - 知识技能。
 
 > Do you can do, try your best!   —chuanxu
+>
+> Keep moving!    —xuli
